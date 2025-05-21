@@ -1,4 +1,4 @@
-module github.com/lukeroth/gdal
+module github.com/geokatalis/gdal
 
 go 1.15
 
